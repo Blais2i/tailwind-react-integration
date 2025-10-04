@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+/* Optional: Add custom styles below if needed */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}

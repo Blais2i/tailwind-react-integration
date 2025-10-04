@@ -1,12 +1,11 @@
 # Tailwind React Integration
 
-A React project with Tailwind CSS configured using Vite.
+This project sets up a React application using Vite and integrates Tailwind CSS for utility-first styling.
 
-## Setup Verification
+## 🚀 Getting Started
 
-- [x] Files are present
-- [x] Tailwind CSS installed
-- [x] Tailwind CSS configuration files created
-- [x] Tailwind CSS directives added
+### 1. Create the React App
 
-## Project Structure
+```bash
+npm create vite@latest tailwind-react-integration -- --template react
+cd tailwind-react-integration
