@@ -9,8 +9,4 @@ A React project with Tailwind CSS configured using Vite.
 - [x] Tailwind CSS configuration files created
 - [x] Tailwind CSS directives added
 
-## Getting Started
-
-1. Install dependencies:
-   ```bash
-   npm install
+## Project Structure
